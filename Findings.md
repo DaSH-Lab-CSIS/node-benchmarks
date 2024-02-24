@@ -81,14 +81,11 @@
 - ## HDDs:
 	- ## Similar random reads and writes, but sequential shows around a 5-10% variation. 
 	- ## Some drives show results ranging from 205-210 whereas some are in the low 190s.
-	- ## Might not be cause for concern but worth investigating further
 # S.M.A.R.T :
 - ## No increase in negative indicators.
 
 # Overall Results : 
 
 - ## Systems are performing more or less within spec. 
-- ## Variation in Hard Drive speed is significant and must be investigated further. 
-- ## MultiCore performance differences aren't a big deal.
 
 
