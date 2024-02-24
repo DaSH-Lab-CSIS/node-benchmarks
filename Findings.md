@@ -80,7 +80,7 @@
 	- ## Random Reads show variations (60-90), everything else is consistent
 - ## HDDs:
 	- ## Similar random reads and writes, but sequential shows around a 5-10% variation. 
-	- ## Some drives how results ranging from 205-210 whereas some are in the low 190s.
+	- ## Some drives show results ranging from 205-210 whereas some are in the low 190s.
 	- ## Might not be cause for concern but worth investigating further
 # S.M.A.R.T :
 - ## No increase in negative indicators.
